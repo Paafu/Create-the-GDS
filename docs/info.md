@@ -16,7 +16,7 @@ xor gate one leg gets input form a other from b same for the and gate and we gat
 
 ## How to test
 
-input a and b | output and | output xor
+input a and b | output and | output xor 
 0 0              0            0
 0 1              0            1
 1 0              0            1
