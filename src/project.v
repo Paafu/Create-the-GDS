@@ -709,11 +709,11 @@ module tt_um_example (
     ChiselTop Top (
         .clock(clk),
          .reset(~rst_n),
-        .io_ui_in(io_ui_in),
-        .io_uo_out(io_uo_out),
-        .io_uio_in(io_uio_in),
-        .io_uio_out(io_uio_out),
-        .io_uio_oe(io_uio_oe)
+        .io_ui_in(ui_in),
+        .io_uo_out(uo_out),
+        .io_uio_in(uio_in),
+        .io_uio_out(uio_out),
+        .io_uio_oe(uio_oe)
     );
         
 
