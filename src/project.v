@@ -713,7 +713,7 @@ module tt_um_example (
         .io_uo_out({io_uo_out}),
         .io_uio_in({io_uio_in}),
         .io_uio_out(io_uio_out),
-        .io_uio_oe(io_uio_oe),
+        .io_uio_oe(io_uio_oe)
     );
         
 
